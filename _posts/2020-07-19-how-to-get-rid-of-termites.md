@@ -23,4 +23,4 @@ Take my advice as someone who has had termites before. **Call the professionals 
 But don’t let the termites keep you up at night. They’re actually harmless insects.
 
 [1]:	www.wikipedia.com/termite
-[2]:	/assets/images/termite_guy.jpg
+[2]:	/assets/images/termite_dude.jpeg
